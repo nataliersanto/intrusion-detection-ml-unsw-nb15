@@ -4,7 +4,7 @@ This project evaluates multiple machine learning models for detecting malicious 
 
 ## Research Paper
 I have written a research paper summarizing the methodology, experiments, and findings of this project. The paper is included in this repository as a PDF:  
-[Research Paper](Intrusion%20Detection%20Natalie%20Santo.pdf)
+[Research Paper](Intrusion_Detection_Paper.pdf)
 
 ## Models Evaluated
 - Logistic Regression
